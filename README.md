@@ -1,2 +1,2 @@
 # ISEG
-Intelligent Software Engineering Group
+Intelligent Software Engineering Group profile repository.
